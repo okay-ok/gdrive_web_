@@ -1,5 +1,5 @@
 google.auth
 google-auth-oauthlib
 google
-google.colab --use-pep517
-google.api --use-pep517
+google.colab --use-pep
+google.api --use-pep
