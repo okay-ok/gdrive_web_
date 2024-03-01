@@ -2,4 +2,4 @@ google.auth
 google-auth-oauthlib
 google
 
-google.api 
+google.api.client
