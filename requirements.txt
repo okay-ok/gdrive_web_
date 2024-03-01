@@ -3,3 +3,4 @@ google-auth-oauthlib
 google
 
 google.api.client
+google-api-python-client
