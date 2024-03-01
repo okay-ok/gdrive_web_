@@ -1,2 +1,5 @@
 google.auth
 google-auth-oauthlib
+google
+google.colab
+googleapiclient
